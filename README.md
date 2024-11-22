@@ -9,14 +9,14 @@ This project simulates a basic e-commerce site where users can view products, ad
 - Shipping options: UPS, FedEx, DHL  
 - Stock management  
 
-##**How to Run**  
+## **How to Run**  
 1. Place the code files in a folder.  
 2. Compile and run the program using the following commands in the terminal:  
 
    - To compile: `javac Main.java`  
    - To run: `java Main`  
 
-##**OOP Concepts**  
+## **OOP Concepts**  
 
 ### **Encapsulation**:  
   Classes hide internal details and provide controlled access via methods. For example, the `increaseStock()` method in the `Product` class updates the stock quantity.  
